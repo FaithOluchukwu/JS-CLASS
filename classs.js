@@ -42,6 +42,9 @@ else if(gender === 'female'){
 
 
 
+
+
+
 // else if( gender == 'female' && age > 17 && age <= 39){
 //     console.log('welcome to the show 😊')
 // }
